@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="calculator test cases" duration-ms="45" started-at="2015-06-16T13:29:32Z" finished-at="2015-06-16T13:29:32Z">
+    <groups>
+    </groups>
+    <test name="addTest1" duration-ms="21" started-at="2015-06-16T13:29:32Z" finished-at="2015-06-16T13:29:32Z">
+      <class name="CalculatorTest">
+        <test-method status="PASS" signature="addTest()[pri:0, instance:CalculatorTest@71dac704]" name="addTest" duration-ms="9" started-at="2015-06-16T21:29:32Z" finished-at="2015-06-16T21:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="addTest2()[pri:0, instance:CalculatorTest@71dac704]" name="addTest2" duration-ms="9" started-at="2015-06-16T21:29:32Z" finished-at="2015-06-16T21:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest2 -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- addTest1 -->
+    <test name="addTest2" duration-ms="2" started-at="2015-06-16T13:29:32Z" finished-at="2015-06-16T13:29:32Z">
+      <class name="CalculatorTest">
+        <test-method status="PASS" signature="addTest2()[pri:0, instance:CalculatorTest@2f333739]" name="addTest2" duration-ms="0" started-at="2015-06-16T21:29:32Z" finished-at="2015-06-16T21:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest2 -->
+        <test-method status="PASS" signature="addTest()[pri:0, instance:CalculatorTest@2f333739]" name="addTest" duration-ms="0" started-at="2015-06-16T21:29:32Z" finished-at="2015-06-16T21:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+      </class> <!-- CalculatorTest -->
+    </test> <!-- addTest2 -->
+  </suite> <!-- calculator test cases -->
+</testng-results>

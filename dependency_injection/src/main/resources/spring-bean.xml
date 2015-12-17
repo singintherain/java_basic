@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd">
+
+    <bean id="client" class="com.lvsong.Client">
+        <property name="sendKeys" ref="sendKeys1"/>
+        <property name="createOrder" ref="createOrder1"/>
+    </bean>
+
+    <bean id="sendKeys1" class="com.lvsong.ActionProxy">
+        <property name="action" ref="sendKeys"/>
+    </bean>
+
+    <bean id="sendKeys" class="com.lvsong.SendKeys"/>
+
+    <bean id="createOrder1" class="com.lvsong.CreateOrder">
+        <property name="actionList">
+            <list>
+                <bean id="click1" class="com.lvsong.Click"/>
+                <bean id="click2" class="com.lvsong.Click"/>
+                <bean id="click3" class="com.lvsong.Click"/>
+            </list>
+        </property>
+    </bean>
+</beans>
+

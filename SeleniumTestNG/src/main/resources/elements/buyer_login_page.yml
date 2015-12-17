@@ -1,0 +1,9 @@
+buyer:
+  # 买家登入页的用户名和密码以及登入操作的元素配置
+  login:
+    username_input:
+      xpath: "//input[@id='ddusername']"
+    password_input:
+      xpath: "//input[@id='ddpw1']"
+    submit_button:
+      xpath: "//input[@id='login_submit']"

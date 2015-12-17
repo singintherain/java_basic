@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [first selenium testng]" data-provider-thread-count="2">
+  <test name="Command line test 99d6dd8a-eae3-4796-ae1e-f8603f22ed96(failed)">
+    <classes>
+      <class name="testcase.BaseTest">
+        <methods>
+          <include name="testCase" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- testcase.BaseTest -->
+    </classes>
+  </test> <!-- Command line test 99d6dd8a-eae3-4796-ae1e-f8603f22ed96(failed) -->
+</suite> <!-- Failed suite [first selenium testng] -->

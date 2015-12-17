@@ -1,0 +1,50 @@
+#购物车页面
+my_cart:
+  items_panel:
+  # 订单列表
+    header:
+      # 商品全选按钮
+      all_selected:
+        xpath: "//section[@id='cart_items_panel']/form[1]/div[1]/p[1]/i[1]"
+    items:
+      product_detail:
+        sku:
+          color:
+            xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[2]/div/div/div[2]"
+          size:
+            xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[2]/div/div/div[3]"
+        price:
+          original:
+            xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[3]/div/p[1]/del"
+          unit:
+            xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[3]/div/p[2]/b"
+        count:
+          descrease:
+            xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[4]/div/p/i[1]"
+          increase:
+            xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[4]/div/p/i[2]"
+        money:
+          xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[5]/div"
+        delete:
+          xpath: "//section[@id='cart_items_panel']/form/div[2]/table/tbody/tr/td[6]/div/a"
+  # desc: 订单总计
+  recount:
+    # 商品全选按钮
+    all_selected_button:
+      xpath: "//section[@id='cart_recount']/div/p/i"
+    # 购物车数量总计
+    product_amount:
+      xpath: "//section[@id='cart_recount']/div/div/span[1]/b"
+    # 购物车价格总记
+    money_amount:
+      xpath: "//section[@id='cart_recount']/div/div/span[2]/strong/i"
+    # 批量删除按钮
+    clear_button:
+      xpath: "//section[@id='cart_recount']/div/p/span/a[2]"
+    # 删除对话框确认按钮
+    ok:
+      xpaht: "//i[@id='diglog_delete_ok']/a"
+    # 去结算按钮
+    settle:
+      xpath: "//section[@id='cart_recount']/div/div/a"
+

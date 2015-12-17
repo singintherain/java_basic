@@ -1,0 +1,5 @@
+buyer_login: !config.BuyerLoginElement
+  # 买家登入页的用户名和密码以及登入操作的元素配置
+  username_input: "//input[@id='ddusername']"
+  password_input: "//input[@id='ddpw1']"
+  submit_button: "//input[@id='login_submit']"

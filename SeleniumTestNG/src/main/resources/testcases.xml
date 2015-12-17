@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+    <test name="first test">
+        <action name="visit" url="http://www.zhe800.com/login"/>
+        <action name="sendKeys" xpath="//input[@id='ddusername']">
+        </action>
+        <action name="sendKeys" xpath="//input[@id='ddpw1']">
+        </action>
+        <action name="click" xpath="//input[@id='login_submit']"></action>
+        <action name="sleep" time="5"></action>
+        <action name="visit" url="http://shop.zhe800.com/products/ze150428161022002575"/>
+    </test>
+
+    <test name="first test">
+        <action name="sleep" time="5"></action>
+        <action name="visit" url="http://shop.zhe800.com/products/ze150428161022002575"/>
+    </test>
+</tests>
+
