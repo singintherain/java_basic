@@ -18,9 +18,9 @@
         <fileSet>
             <directory>${project.build.directory}/classes</directory>
             <outputDirectory>kafka_learning/classes</outputDirectory>
-            <includes>
-                <include>log4j.properties</include>
-            </includes>
+            <!--<includes>-->
+                <!--<include>log4j.properties</include>-->
+            <!--</includes>-->
         </fileSet>
 
         <fileSet>
