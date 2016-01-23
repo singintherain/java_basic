@@ -17,28 +17,28 @@ public class StudentSexPropertyEditor extends PropertyEditorSupport {
         stringSexMap.put("female", Sex.FEMAL);
     }
 
-    @Override
-    public String[] getTags() {
-        return stringSexMap.keySet().toArray(new String[]{});
-    }
-
-    @Override
-    public String getJavaInitializationString() {
-        return "" + getValue();
-    }
-
-    @Override
-    public String getAsText() {
-        Sex value = (Sex) getValue();
-
-        for(Map.Entry<String, Sex> entry : stringSexMap.entrySet()) {
-            if(value.equals(entry.getValue())) {
-                return entry.getKey();
-            }
-        }
-
-        return "null";
-    }
+//    @Override
+//    public String[] getTags() {
+//        return stringSexMap.keySet().toArray(new String[]{});
+//    }
+//
+//    @Override
+//    public String getJavaInitializationString() {
+//        return "" + getValue();
+//    }
+//
+//    @Override
+//    public String getAsText() {
+//        Sex value = (Sex) getValue();
+//
+//        for(Map.Entry<String, Sex> entry : stringSexMap.entrySet()) {
+//            if(value.equals(entry.getValue())) {
+//                return entry.getKey();
+//            }
+//        }
+//
+//        return "null";
+//    }
 
     @Override
     public void setAsText(String s) {

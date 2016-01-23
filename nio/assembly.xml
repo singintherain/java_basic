@@ -10,25 +10,25 @@
     <dependencySets>
         <dependencySet>
             <useProjectArtifact>true</useProjectArtifact>
-            <outputDirectory>kafka_learning/lib</outputDirectory>
+            <outputDirectory>nio/lib</outputDirectory>
         </dependencySet>
     </dependencySets>
 
     <fileSets>
         <fileSet>
             <directory>${project.build.directory}/classes</directory>
-            <outputDirectory>kafka_learning/classes</outputDirectory>
+            <outputDirectory>nio/classes</outputDirectory>
             <!--<includes>-->
-                <!--<include>log4j.properties</include>-->
+            <!--<include>log4j.properties</include>-->
             <!--</includes>-->
         </fileSet>
 
         <fileSet>
             <directory>src/main/scripts</directory>
-            <outputDirectory>kafka_learning/.</outputDirectory>
+            <outputDirectory>nio/.</outputDirectory>
             <includes>
-                <include>shell/consumer_start.sh</include>
-                <include>shell/producer_start.sh</include>
+                <include>shell/server.sh</include>
+                <include>shell/client.sh</include>
             </includes>
         </fileSet>
     </fileSets>

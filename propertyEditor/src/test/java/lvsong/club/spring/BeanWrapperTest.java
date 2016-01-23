@@ -6,6 +6,7 @@ import lvsong.club.jdk.StudentSexPropertyEditor;
 import org.junit.Test;
 import org.springframework.beans.BeanWrapper;
 import org.springframework.beans.BeanWrapperImpl;
+import org.springframework.beans.PropertyEditorRegistrySupport;
 
 /**
  * Created by lvsong on 1/3/16.
@@ -13,7 +14,9 @@ import org.springframework.beans.BeanWrapperImpl;
 public class BeanWrapperTest {
     @Test
     public void iocTest() {
-        BeanWrapper studentBeanWrapper = new BeanWrapperImpl(new Student());
+        Student student = new Student();
+
+        BeanWrapper studentBeanWrapper = new BeanWrapperImpl(student);
         studentBeanWrapper.setPropertyValue("name", "zhangsan");
 
 //        只需要注册sex属性的编辑器就可以了，name属性不需要
@@ -23,7 +26,11 @@ public class BeanWrapperTest {
 
         studentBeanWrapper.setPropertyValue("sex", "female");
 
-        Student student = (Student) studentBeanWrapper.getWrappedInstance();
+        Student student2 = (Student) studentBeanWrapper.getWrappedInstance();
+
+        if(student == student2) {
+            System.out.println("相同");
+        }
 
         System.out.println(student);
     }
