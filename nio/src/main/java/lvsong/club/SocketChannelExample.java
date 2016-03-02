@@ -14,11 +14,18 @@ import java.nio.charset.Charset;
  */
 public class SocketChannelExample {
     public static void main(String[] args) {
-        int port = 4444;
+        String ip = args[0];
+        int port = Integer.parseInt(args[1]);
         try {
             SocketChannel socketChannel = SocketChannel.open();
             socketChannel.configureBlocking(false);
-            socketChannel.connect(new InetSocketAddress("localhost", port));
+            socketChannel.connect(new InetSocketAddress(ip, port));
+
+            System.out.println("localPort " +
+                    socketChannel.socket().getLocalPort());
+
+            System.out.println("port " +
+                    socketChannel.socket().getPort());
 
             while (!socketChannel.finishConnect()) {
                 System.out.println("still connecting");
@@ -38,9 +45,11 @@ public class SocketChannelExample {
                 while((s = bufferedReader.readLine()) != null && s.length() != 0) {
                     byteBuffer.put(s.getBytes());
                     byteBuffer.flip();          // 必须要有
+
                     socketChannel.write(byteBuffer);
                     byteBuffer.clear();
 //                    socketChannel.write(byteBuffer);
+                    socketChannel.connect(new InetSocketAddress(ip, port));
                 }
 
 //                System.out.print("bufferedReader: " + bufferedReader);

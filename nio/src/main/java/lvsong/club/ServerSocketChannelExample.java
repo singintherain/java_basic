@@ -24,7 +24,8 @@ public class ServerSocketChannelExample {
 
     public static void main(String[] args) {
         int port = 4444;
-        String localhost = "localhost";
+//        String localhost = "127.0.0.1";
+        String localhost = "0.0.0.0";
 
         try {
             ServerSocketChannel channel = ServerSocketChannel.open();
@@ -46,14 +47,19 @@ public class ServerSocketChannelExample {
                 System.out.println("selector 获得客户端连接请求响应");
                 Set<SelectionKey> selectionKeys = selector.selectedKeys();
                 Iterator<SelectionKey> selectionKeyIterator = selectionKeys.iterator();
+                System.out.println("待处理socket事件个数：" + selectionKeys.size());
                 while (selectionKeyIterator.hasNext()) {
                     SelectionKey key = selectionKeyIterator.next();
 
+                    System.out.println("待处理selection key：" + key);
                     if(((Map<?, ?>)key.attachment()).get(channelType).equals(serverChannel)) {
                         ServerSocketChannel serverSocketChannel = (ServerSocketChannel) key.channel();
                         System.out.println("before accept, 尝试建立与客户端连接的socket");
                         SocketChannel clientSocketChannel = serverSocketChannel.accept();
-                        System.out.println("after accept, 完成建立与客户端连接的socket");
+                        System.out.println("after accept, 完成建立与客户端连接的socket: " +
+                                clientSocketChannel.getRemoteAddress());
+                        System.out.println("localPort " +
+                        clientSocketChannel.socket().getPort());
 
                         if(clientSocketChannel != null) {
                             clientSocketChannel.configureBlocking(false);
@@ -79,16 +85,43 @@ public class ServerSocketChannelExample {
                         SocketChannel clientChannel = (SocketChannel) key.channel();
                         int bytesRead = 0;
                         if(key.isReadable()) {
-                            if((bytesRead = clientChannel.read(byteBuffer)) > 0) {
+                            /**
+                             * 长连接
+                             */
+//                            bytesRead = clientChannel.read(byteBuffer);
+//
+//                            // 判断是否是客户端断开了连接
+//                            if((bytesRead <= 0)) {
+//                                System.out.println("客户端断开连接");
+//                                clientChannel.close();
+//                            } else {
+//                                do {
+//                                    byteBuffer.flip();
+//                                    System.out.println("接受客户端数据大小" + bytesRead);
+//                                    System.out.println("客户端: " + Charset.defaultCharset().decode(byteBuffer));
+//                                    System.out.println("打开的通信socket: " + clientChannel.socket());
+//                                    System.out.println("打开的通信socket对象: " + clientChannel.hashCode());
+//                                    byteBuffer.clear();
+//                                } while ((bytesRead = clientChannel.read(byteBuffer)) > 0);
+//                            }
+
+                            /**
+                             * 短链接
+                             */
+                            while ((bytesRead = clientChannel.read(byteBuffer)) > 0) {
+
                                 byteBuffer.flip();
                                 System.out.println("接受客户端数据大小" + bytesRead);
                                 System.out.println("客户端: " + Charset.defaultCharset().decode(byteBuffer));
+                                System.out.println("打开的通信socket: " + clientChannel.socket());
+                                System.out.println("打开的通信socket对象: " + clientChannel.hashCode());
                                 byteBuffer.clear();
                             }
 
-//                            if((bytesRead < 0)) {
-//                                clientChannel.close();
-//                            }
+                            if((bytesRead <= 0)) {
+                                System.out.println("客户端断开连接");
+                                clientChannel.close();
+                            }
                         }
                     }
 

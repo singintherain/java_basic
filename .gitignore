@@ -46,6 +46,12 @@
 /generic/.idea
 /generic/target
 
+/thread_local/.idea
+/thread_local/target
+
+/netty/.idea
+/netty/target
+
 /refactor/.idea
 /refactor/target
 
@@ -119,6 +125,8 @@
 /jdbc-learning/.idea
 /jdbc-learning/target
 
+/thread_local/.idea
+/thread_local/target
 
 /propertyEditor/.idea
 /propertyEditor/target

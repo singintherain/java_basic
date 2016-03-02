@@ -15,7 +15,6 @@ import java.util.List;
  */
 public class SqlExecuteTaskTest {
     private static final int futurePoolSize = 5;
-    private static final int connectionPoolSize = 3;
 
     private ApplicationContext applicationContext;
     private ConnectionPool connectionPool;

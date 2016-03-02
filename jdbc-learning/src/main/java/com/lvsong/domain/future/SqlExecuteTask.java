@@ -3,6 +3,7 @@ package com.lvsong.domain.future;
 import com.lvsong.ConnectionPool;
 import com.lvsong.MyConnection;
 import com.lvsong.NoIdleConnectionException;
+import com.lvsong.TaskBodyIntef;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
@@ -27,14 +28,16 @@ public class SqlExecuteTask implements Runnable {
 
     public void run() {
         while(true) {
-
             try {
                 MyConnection myConnection = connectionPool.getConnection();
                 Connection connection = myConnection.getConnection();
                 Statement statement = connection.createStatement();
                 ResultSet resultSet = statement.executeQuery(sql);
 
-                LOG.info("Thread" + Thread.currentThread() + "执行sql命令成功: " + sql);
+                LOG.info("Thread" + Thread.currentThread() + "使用数据库连接：" +
+                        myConnection.getId()
+                        + ", 执行sql命令成功: " + sql);
+
                 myConnection.free();
                 break;
             } catch (SQLException e) {
@@ -45,7 +48,8 @@ public class SqlExecuteTask implements Runnable {
                     LOG.info("休眠500ms");
                 }
             } catch (NoIdleConnectionException e) {
-                LOG.error(e.getMessage());
+                LOG.error("任务" + Thread.currentThread() + e.getMessage() + "," +
+                        "等待5秒后重试");
                 try {
                     Thread.currentThread().sleep(500);
                 } catch (InterruptedException e2) {

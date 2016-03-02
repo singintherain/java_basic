@@ -33,6 +33,7 @@ public class ConnectionPool {
 
         for(int i = 0; i < size; i++) {
             myConnections[i] = jdbcConnectionFactory.getMyConnection();
+            myConnections[i].setId(i);
         }
 
         LOG.info("初始化数据库连接池，共创建了" + size + "个连接");
