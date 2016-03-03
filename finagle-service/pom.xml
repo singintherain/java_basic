@@ -105,7 +105,7 @@
                     <language>java</language>
                     <thriftSourceRoot>./src/main/resources/idls</thriftSourceRoot>
                     <outputDirectory>
-                        ./src/main
+                        ./src/main/
                     </outputDirectory>
                     <thriftOpts>
                         <thriftOpt>--finagle</thriftOpt>
