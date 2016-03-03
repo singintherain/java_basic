@@ -22,8 +22,8 @@
 /remote_executor/.idea/
 /remote_executor/target/
 
-/finagle_service/.idea/
-/finagle_service/target/
+finagle_service/.idea/
+finagle_service/target/
 
 /kafka-learning/.idea/
 /kafka-learning/target/
