@@ -17,7 +17,7 @@ import java.util.Random;
  * Created by lvsong on 2/21/16.
  */
 public class CallbackSqlExecuteTaskTest {
-    private static final int futurePoolSize = 5;
+    private static final int futurePoolSize = 100000;
 
     private ApplicationContext applicationContext;
     private ConnectionPool connectionPool;
@@ -39,7 +39,51 @@ public class CallbackSqlExecuteTaskTest {
 
                     try {
                         connection.setAutoCommit(false);
-                        connection.setTransactionIsolation(Connection.TRANSACTION_SERIALIZABLE);
+//                        connection.setTransactionIsolation(Connection.TRANSACTION_SERIALIZABLE);
+                        connection.setTransactionIsolation(Connection.TRANSACTION_REPEATABLE_READ);
+                        Statement statement = connection.createStatement();
+
+                        String openId = randomOpenId(Thread.currentThread().getId());
+                        String insertSql = "INSERT INTO users(open_id) VALUES ('aaa" + openId + "bbb');";
+                        System.out.println(Thread.currentThread() + "执行如下sql语句: " + insertSql);
+                        int rows = statement.executeUpdate(insertSql);
+                        String queryTotalCountsSql = "select count(*) from users;";
+                        System.out.println(Thread.currentThread() + "执行如下sql语句: " + queryTotalCountsSql);
+                        raiseException();
+                        ResultSet resultSet = statement.executeQuery(queryTotalCountsSql);
+                        connection.commit();
+                    } catch (SQLException e) {
+                        connection.rollback();
+                        myConnection.free();
+                        throw e;
+                    } catch (Exception e) {
+                        connection.rollback();
+                        myConnection.free();
+                        throw e;
+                    }
+//                    int totalRowCounts = resultSet.getInt(1);
+//                    System.out.println(Thread.currentThread() + "查询users总行数: " + totalRowCounts);
+                }
+            }));
+
+        try {
+            Thread.currentThread().sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Test
+    public void deadLockTest() {
+         for(int i = 0; i < 5; i++)
+            futurePool.submit(new CallbackExecuteTask(connectionPool, new TaskBodyIntef() {
+                public void start(MyConnection myConnection) throws Exception {
+                    Connection connection = myConnection.getConnection();
+
+                    try {
+                        connection.setAutoCommit(false);
+//                        connection.setTransactionIsolation(Connection.TRANSACTION_SERIALIZABLE);
+                        connection.setTransactionIsolation(Connection.TRANSACTION_REPEATABLE_READ);
                         Statement statement = connection.createStatement();
 
                         String openId = randomOpenId(Thread.currentThread().getId());

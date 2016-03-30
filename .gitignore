@@ -19,6 +19,12 @@
 
 *~
 
+/nio/.idea/
+/nio/target/
+
+/redis_test/.idea/
+/redis_test/target/
+
 /remote_executor/.idea/
 /remote_executor/target/
 

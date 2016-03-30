@@ -14,7 +14,7 @@ import javax.annotation.PostConstruct;
 public class ConnectionPool {
     private static final Log LOG = LogFactory.getLog(ConnectionPool.class);
 
-    private int size = 3;
+    private int size = 100000;
     private MyConnection[] myConnections;
 
     @Autowired

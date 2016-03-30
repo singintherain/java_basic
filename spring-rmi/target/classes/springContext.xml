@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--server端-->
+    <bean id="calculation" class="lvsong.club.CalculationImpl"/>
+
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+        <property name="service" ref="calculation"/>
+        <property name="serviceInterface" value="lvsong.club.Calculation"/>
+        <property name="serviceName" value="CalculationService"/>
+        <property name="replaceExistingBinding" value="true"/>
+        <property name="registryPort" value="1099"/>
+    </bean>
+
+    <!--client端-->
+    <bean id="caculationProxy" class="org.springframework.remoting.rmi.RmiProxyFactoryBean">
+        <property name="serviceUrl" value="rmi://localhost:1099/CalculationService"/>
+        <property name="serviceInterface" value="lvsong.club.Calculation"/>
+    </bean>
+</beans>
