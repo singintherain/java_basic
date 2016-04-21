@@ -140,4 +140,12 @@ finagle_service/target/
 /propertyEditor/.idea
 /propertyEditor/target
 
+/mybatisTest/.idea
+/mybatisTest/target
+
+/switchTest/.idea
+/switchTest/target
+
+/zkTest/.idea
+/zkTest/target
 

@@ -60,4 +60,29 @@ public class SqlExecuteTaskTest {
             e.printStackTrace();
         }
     }
+
+    @Test
+    public void duplicateKeyExceptionTest() {
+        String sql1 = "insert into users(open_id, name, gender, phone_number) " +
+                "values ('1234', 'test1', 0, '12368765676');";
+        String sql2 = "insert into users(open_id, name, gender, phone_number) " +
+                "values ('1234', 'test2', 0, '12368765676');";
+
+        List<String> sqlList = new ArrayList<String>();
+
+        sqlList.add(sql1);
+        sqlList.add(sql2);
+
+        for(String sql : sqlList) {
+            SqlExecuteTask task = new SqlExecuteTask(connectionPool, sql);
+
+            futurePool.submit(task);
+        }
+
+        try {
+            Thread.currentThread().sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 }

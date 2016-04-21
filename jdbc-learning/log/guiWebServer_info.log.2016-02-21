@@ -1,0 +1,677 @@
+2016-02-21 16:34:40 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 16:34:40 CST 2016]; root of context hierarchy
+2016-02-21 16:34:41 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:42 INFO  ConnectionPool:38 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 16:34:49 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 16:34:49 CST 2016]; root of context hierarchy
+2016-02-21 16:34:49 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 INFO  ConnectionPool:38 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:36:52 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 16:36:52 CST 2016]; root of context hierarchy
+2016-02-21 16:36:52 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 16:36:54 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@c267ef4 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:36:54 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1ddf84b8 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:36:54 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@636be97c ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:36:54 INFO  ConnectionPool:38 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 16:36:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:36:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-3,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-1,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-2,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-3,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-1,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-2,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-3,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-5,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:36:54 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-4,5,main]执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:34 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 16:47:34 CST 2016]; root of context hierarchy
+2016-02-21 16:47:34 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 16:47:35 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@c267ef4 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:47:35 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1ddf84b8 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:47:35 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@636be97c ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:47:35 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-1,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-2,5,main]使用数据库连接：1, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-3,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-4,5,main]使用数据库连接：2, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 ERROR SqlExecuteTask:51 - 没有空闲的连接
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-5,5,main]使用数据库连接：1, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-2,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-5,5,main]使用数据库连接：1, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:35 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-4,5,main]使用数据库连接：2, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:47:36 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-1,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:10 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 16:51:10 CST 2016]; root of context hierarchy
+2016-02-21 16:51:10 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 16:51:12 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@c267ef4 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:51:12 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1ddf84b8 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:51:12 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@636be97c ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:51:12 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-1,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-2,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-3,5,main]使用数据库连接：1, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-4,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-5,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 ERROR SqlExecuteTask:51 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 16:51:12 ERROR SqlExecuteTask:51 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-1,5,main]使用数据库连接：1, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-2,5,main]使用数据库连接：2, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-4,5,main]使用数据库连接：0, 执行sql命令成功: select count(*) from users;
+2016-02-21 16:51:12 INFO  SqlExecuteTask:37 - ThreadThread[pool-1-thread-3,5,main]使用数据库连接：1, 执行sql命令成功: select count(*) from users;
+2016-02-21 17:48:43 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:48:43 CST 2016]; root of context hierarchy
+2016-02-21 17:48:43 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:48:44 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:48:44 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:48:44 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:48:44 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:48:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:48:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:49:44 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:49:44 CST 2016]; root of context hierarchy
+2016-02-21 17:49:44 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:49:45 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:49:45 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:49:45 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:49:45 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:49:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:49:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:53:13 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:53:13 CST 2016]; root of context hierarchy
+2016-02-21 17:53:13 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:53:14 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:53:14 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:53:14 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:53:14 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:53:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:53:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:32 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:54:32 CST 2016]; root of context hierarchy
+2016-02-21 17:54:32 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:54:33 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:54:33 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:54:33 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:54:33 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:09 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:58:09 CST 2016]; root of context hierarchy
+2016-02-21 17:58:09 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:58:10 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:58:10 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:58:10 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:58:10 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:15 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:15 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:15 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:42 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:58:42 CST 2016]; root of context hierarchy
+2016-02-21 17:58:42 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:58:43 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:58:43 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:58:43 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:58:43 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:45 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 17:59:45 CST 2016]; root of context hierarchy
+2016-02-21 17:59:46 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 17:59:47 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:59:47 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:59:47 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 17:59:47 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:06 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 18:02:06 CST 2016]; root of context hierarchy
+2016-02-21 18:02:06 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 18:02:07 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 18:02:07 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 18:02:07 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 18:02:07 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:40 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@71d15f18: startup date [Sun Feb 21 18:04:40 CST 2016]; root of context hierarchy
+2016-02-21 18:04:40 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 18:04:41 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a362b6b ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 18:04:41 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@512baff6 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 18:04:41 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@10a9d961 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 18:04:41 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:45 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:35:45 CST 2016]; root of context hierarchy
+2016-02-21 22:35:46 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:35:47 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:35:47 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:35:47 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:35:47 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:45 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:36:45 CST 2016]; root of context hierarchy
+2016-02-21 22:36:45 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:36:46 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:36:46 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:36:46 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:36:46 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:38:57 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:38:57 CST 2016]; root of context hierarchy
+2016-02-21 22:38:57 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:38:58 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:38:58 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:38:58 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:38:58 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:38:59 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:54 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:44:54 CST 2016]; root of context hierarchy
+2016-02-21 22:44:55 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:44:56 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:44:56 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:44:56 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:44:56 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa6bbb' for key 'index_users_on_open_id'
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:57 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa5bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:03 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:47:03 CST 2016]; root of context hierarchy
+2016-02-21 22:47:03 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:47:04 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:47:04 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:47:04 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:47:04 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa6bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:54:10 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:54:10 CST 2016]; root of context hierarchy
+2016-02-21 22:54:10 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:54:11 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:54:11 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:54:11 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:54:11 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-4,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-5,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa6bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:12 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa5bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:12 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa1bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:50 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:54:50 CST 2016]; root of context hierarchy
+2016-02-21 22:54:50 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:54:51 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:54:51 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:54:51 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:54:51 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:54:51 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-4,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:51 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-5,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:51 ERROR CallbackExecuteTask:44 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:57:55 INFO  ClassPathXmlApplicationContext:577 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1fbc7afb: startup date [Sun Feb 21 22:57:55 CST 2016]; root of context hierarchy
+2016-02-21 22:57:56 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [config/applicationContext.xml]
+2016-02-21 22:57:57 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@31d7b7bf ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:57:57 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@7a69b07 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:57:57 INFO  JdbcConnectionFactory:38 - 创建数据库连接connection: com.mysql.jdbc.JDBC4Connection@1817d444 ，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 22:57:57 INFO  ConnectionPool:39 - 初始化数据库连接池，共创建了3个连接
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-4,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-5,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常

@@ -5,14 +5,12 @@ import org.junit.Test;
 
 import java.util.Iterator;
 import java.util.concurrent.*;
-import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by lvsong on 3/12/16.
  */
 public class CopyOnWriteArrayListTest {
     private CopyOnWriteArrayList<Integer> list = new CopyOnWriteArrayList<Integer>();
-    AtomicInteger
     private CountDownLatch latch = new CountDownLatch(1);
 
     @Before

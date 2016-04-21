@@ -32,7 +32,8 @@ public class SqlExecuteTask implements Runnable {
                 MyConnection myConnection = connectionPool.getConnection();
                 Connection connection = myConnection.getConnection();
                 Statement statement = connection.createStatement();
-                ResultSet resultSet = statement.executeQuery(sql);
+//                ResultSet resultSet = statement.executeQuery(sql);
+                boolean flag = statement.execute(sql);
 
                 LOG.info("Thread" + Thread.currentThread() + "使用数据库连接：" +
                         myConnection.getId()
@@ -41,12 +42,14 @@ public class SqlExecuteTask implements Runnable {
                 myConnection.free();
                 break;
             } catch (SQLException e) {
-                LOG.error("生成sql的statement失败! " + e.getMessage());
-                try {
-                    Thread.currentThread().sleep(500);
-                } catch (InterruptedException e1) {
-                    LOG.info("休眠500ms");
-                }
+//                LOG.error("生成sql的statement失败! " + e.getMessage());
+//                try {
+//                    Thread.currentThread().sleep(500);
+//                } catch (InterruptedException e1) {
+//                    LOG.info("休眠500ms");
+//                }
+                LOG.error(e.getClass().getSimpleName() + "--" + sql + "--" + e.getMessage());
+                break;
             } catch (NoIdleConnectionException e) {
                 LOG.error("任务" + Thread.currentThread() + e.getMessage() + "," +
                         "等待5秒后重试");

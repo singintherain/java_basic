@@ -1,0 +1,524 @@
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:42 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:43 - 获取数据库连接失败，数据库配置如下， url jdbc:mysql://127.0.0.1:3306/dongba_test，useName: root, password: 
+2016-02-21 16:34:50 ERROR JdbcConnectionFactory:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:50 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:51 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:52 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:53 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:55 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:56 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:57 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:58 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:34:59 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:35:00 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:36:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:36:54 ERROR SqlExecuteTask:48 - 没有空闲的连接
+2016-02-21 16:47:35 ERROR SqlExecuteTask:51 - 没有空闲的连接
+2016-02-21 16:51:12 ERROR SqlExecuteTask:51 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 16:51:12 ERROR SqlExecuteTask:51 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:48:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:48:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:49:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:49:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:53:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:53:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:54:33 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:34 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:35 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:36 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:37 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:38 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:39 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:40 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:54:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:58:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:15 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:15 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:15 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:58:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 17:59:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:02:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:41 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:42 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:43 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:44 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:45 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 18:04:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:45 - Before start of result set
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:35:50 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:46 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:47 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:48 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-1,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-3,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:36:49 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-2,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:38:58 ERROR CallbackExecuteTask:45 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:38:59 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa6bbb' for key 'index_users_on_open_id'
+2016-02-21 22:44:56 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:44:57 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa5bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa6bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:04 ERROR CallbackExecuteTask:45 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:05 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:06 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:07 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:08 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:09 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:10 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:11 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:12 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:13 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-4,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:47:14 ERROR CallbackExecuteTask:37 - 任务Thread[pool-1-thread-5,5,main]没有空闲的连接,等待5秒后重试
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-4,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-5,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa8bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa2bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:11 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa6bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:12 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa5bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:12 ERROR CallbackExecuteTask:44 - Duplicate entry 'aaa1bbb' for key 'index_users_on_open_id'
+2016-02-21 22:54:51 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-4,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:51 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-5,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:54:51 ERROR CallbackExecuteTask:44 - Deadlock found when trying to get lock; try restarting transaction
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-4,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:36 - 任务Thread[pool-1-thread-5,5,main]没有空闲的数据库连接,等待5秒后重试
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
+2016-02-21 22:57:57 ERROR CallbackExecuteTask:44 - 在执行查询语句时报异常
