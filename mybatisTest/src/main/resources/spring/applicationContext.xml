@@ -9,5 +9,4 @@
 
     <context:component-scan base-package="lvsong.club.service"/>
 
-    <bean id="dataSource" class=""
 </beans>
