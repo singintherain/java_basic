@@ -149,3 +149,5 @@ finagle_service/target/
 /zkTest/.idea
 /zkTest/target
 
+.idea/
+target/

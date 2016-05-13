@@ -14,11 +14,11 @@
 
        <typeHandlers>
               <typeHandler javaType="DateTime" jdbcType="DATE"
-                           handler="lvsong.club.typehandler.JodaDateTime2DateTypeHandler"></typeHandler>
+                           handler="lvsong.club.typeHandler.JodaDateTime2DateTypeHandler"></typeHandler>
               <typeHandler javaType="DateTime" jdbcType="TIME"
-                           handler="lvsong.club.typehandler.JodaDateTime2TimeTypeHandler"></typeHandler>
+                           handler="lvsong.club.typeHandler.JodaDateTime2TimeTypeHandler"></typeHandler>
               <typeHandler javaType="DateTime" jdbcType="TIMESTAMP"
-                           handler="lvsong.club.typehandler.JodaDateTime2TimestampTypeHandler"></typeHandler>
+                           handler="lvsong.club.typeHandler.JodaDateTime2TimestampTypeHandler"></typeHandler>
        </typeHandlers>
 
 </configuration>

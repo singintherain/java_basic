@@ -12,11 +12,11 @@ public class IntrospectedColumn extends org.mybatis.generator.api.IntrospectedCo
     public void setFullyQualifiedJavaType(FullyQualifiedJavaType fullyQualifiedJavaType) {
         super.setFullyQualifiedJavaType(fullyQualifiedJavaType);
         if (Types.DATE == this.getJdbcType() && "org.joda.time.DateTime".equals(fullyQualifiedJavaType.getFullyQualifiedName())) {
-            this.typeHandler = "com.tuan800.mybatis.typehandler.JodaDateTime2DateTypeHandler";
+            this.typeHandler = "lvsong.club.typeHandler.JodaDateTime2DateTypeHandler";
         } else if (Types.TIMESTAMP == this.getJdbcType() && "org.joda.time.DateTime".equals(fullyQualifiedJavaType.getFullyQualifiedName())) {
-            this.typeHandler = "com.tuan800.mybatis.typehandler.JodaDateTime2TimestampTypeHandler";
+            this.typeHandler = "lvsong.club.typeHandler.JodaDateTime2TimestampTypeHandler";
         } else if (Types.TIME == this.getJdbcType() && "org.joda.time.DateTime".equals(fullyQualifiedJavaType.getFullyQualifiedName())) {
-            this.typeHandler = "com.tuan800.mybatis.typehandler.JodaDateTime2TimeTypeHandler";
+            this.typeHandler = "lvsong.club.typeHandler.JodaDateTime2TimeTypeHandler";
         }
     }
 }
